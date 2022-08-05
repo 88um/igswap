@@ -1,0 +1,17 @@
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\newswap.csproj.AssemblyReference.cache
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\newswap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\newswap.AssemblyInfoInputs.cache
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\newswap.AssemblyInfo.cs
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\newswap.csproj.CoreCompileInputs.cache
+C:\Users\viral\Desktop\newswap\bin\Debug\net6.0\newswap.exe
+C:\Users\viral\Desktop\newswap\bin\Debug\net6.0\newswap.deps.json
+C:\Users\viral\Desktop\newswap\bin\Debug\net6.0\newswap.runtimeconfig.json
+C:\Users\viral\Desktop\newswap\bin\Debug\net6.0\newswap.dll
+C:\Users\viral\Desktop\newswap\bin\Debug\net6.0\ref\newswap.dll
+C:\Users\viral\Desktop\newswap\bin\Debug\net6.0\newswap.pdb
+C:\Users\viral\Desktop\newswap\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\newswap.csproj.CopyComplete
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\newswap.dll
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\ref\newswap.dll
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\newswap.pdb
+C:\Users\viral\Desktop\newswap\obj\Debug\net6.0\newswap.genruntimeconfig.cache

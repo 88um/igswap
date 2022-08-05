@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newswap", "newswap.csproj", "{72E6910F-55D0-4B99-AD0F-9B70B1D5D19A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E6910F-55D0-4B99-AD0F-9B70B1D5D19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E6910F-55D0-4B99-AD0F-9B70B1D5D19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E6910F-55D0-4B99-AD0F-9B70B1D5D19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E6910F-55D0-4B99-AD0F-9B70B1D5D19A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA7779A-D53B-463A-B8C0-5F720827D1C0}
+	EndGlobalSection
+EndGlobal
